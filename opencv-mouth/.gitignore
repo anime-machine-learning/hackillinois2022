@@ -1,0 +1,4 @@
+venv/
+test-data/test-videos/
+mouth-detection/shape_predictor_68_face_landmarks.dat
+__pycache__
